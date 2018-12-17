@@ -1,0 +1,139 @@
+/* 首页头部 */
+.msite{
+    width:100%;
+    background-color: #f3f3f3cc;
+    /* overflow: hidden; */
+  }
+  .icon-icon-copy-copy,.icon-liebiao {
+    font-size: 25px;
+    color: #fff;
+  }
+
+  .panel-collapse {
+    /* width: 100%; */
+    box-shadow: 1px 1px 10px #02a774;
+  }
+
+  .panel-body {
+    /* width: 100%; */
+    margin-top: 50px;
+    background-color: #fff;
+  }
+
+  .list-group {
+    /* width: 100%; */
+    margin: 0 auto;
+  }
+
+  .li-style {
+    /* width: 100%; */
+    height: 30px;
+  }
+
+  /* 轮播图 */
+  .box1 {
+    height: 50px;
+  }
+
+  .lunbo_image {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* 科目分类 */
+  .msite_nav {
+    height: 200px;
+    background: #fff;
+  }
+
+  .swiper-container {
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+  }
+
+  .swiper-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .swiper-slide a {
+    text-decoration: none;
+  }
+
+  .swiper-slide a:hover {
+    color: #02a774;
+  }
+
+  .link_to_food {
+    width: 25%;
+    color: #333;
+  }
+
+  .food_container {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 0;
+  }
+
+  img {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+  }
+
+  span {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 13px;
+    color: #666;
+  }
+
+  .swiper-pagination>span.swiper-pagination-bullet-active {
+    background: #02a774;
+  }
+
+  /* 优秀教员 */
+  .msite_shop_list {
+    border-top: 1px #e4e4e4;
+    margin-top: 10px;
+    background: #fff;
+  }
+
+  .shop_header {
+    padding: 10px 10px 0;
+  }
+
+  .shop_icon {
+    margin-left: 5px;
+    color: #999;
+  }
+
+  .shop_header_title {
+    color: #999;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+  }
+
+    /* 清浮动 */
+    .clearfix:after {
+      visibility: hidden;
+      display: block;
+      font-size: 0;
+      content: " ";
+      clear: both;
+      height: 0;
+    }
+
+  
